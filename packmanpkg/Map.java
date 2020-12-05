@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class Map {
 	static final int WIDTH = 80;
-	static final int HEIGHT = 20; �
+	static final int HEIGHT = 20; 
 	char arr[][] = new char[HEIGHT][WIDTH];
 
 	char[][] ReaderMap() throws IOException { 

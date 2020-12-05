@@ -6,3 +6,4 @@
   + 적 3턴 정지
   + 미사일로 적 파괴
   + 2칸씩 쫒아오는 보스 위치 초기화
+![packman](https://user-images.githubusercontent.com/56224920/101243921-adea8b80-3746-11eb-8dce-3883e50da3c5.gif)

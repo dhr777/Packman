@@ -4,13 +4,13 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class Map {
-	static final int WIDTH = 80; // ���� ����
-	static final int HEIGHT = 20; // ���� ����
+	static final int WIDTH = 80;
+	static final int HEIGHT = 20; �
 	char arr[][] = new char[HEIGHT][WIDTH];
 
-	char[][] ReaderMap() throws IOException { // ���� �ҷ���.
+	char[][] ReaderMap() throws IOException { 
 		@SuppressWarnings("resource")
-		FileReader fr = new FileReader("C:\\1231.txt");
+		FileReader fr = new FileReader("C:\\map.txt");
 		int n;
 		int count = 0;
 		char[] temp = new char[1000000];
